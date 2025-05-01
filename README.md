@@ -46,9 +46,10 @@ This project aims to identify optimal locations for installing EV (Electric Vehi
 - Clustered zones needing infrastructure
 - Predicted demand vs existing coverage
 
-## 🖼️ Project Demo Screenshot
+## 🖼️ Cluster Map Screenshot
 
 ![Project Screenshot](cluster_map.png)
+
 
 
 
